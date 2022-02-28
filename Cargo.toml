@@ -1,0 +1,15 @@
+[package]
+name = "gb"
+version = "0.0.1"
+edition = "2021"
+authors = ["Jan Ferdinand Sauer <gb@jfs.sh>"]
+description = "Library for computing Gröbner bases."
+readme = "README.md"
+homepage = "https://github.com/42ndTowel/gb"
+repository = "https://github.com/42ndTowel/gb"
+license = "Unlicense"
+keywords = ["grobner-basis", "groebner-basis", "algebra", "polynomial-systems"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
